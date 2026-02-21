@@ -124,7 +124,6 @@ AUC is particularly important in medical diagnosis as it measures discriminative
 
 ### 6.1 Confusion Matrix
 
-(Insert confusion matrix figure here)
 ![Confusion Matrix](../reports/confusion_matrix.png)
 
 The models demonstrate strong sensitivity but some false positives remain.
