@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+*.npy
+*.bin
+embeddings/
+index/
+logs/
